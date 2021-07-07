@@ -1,0 +1,12 @@
+.cartButton {
+    background-color: transparent;
+    border-color: transparent;
+}
+.cartItems {
+    height: 25px;
+    width: 25px;
+    background-color: #BAE;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5px;
+}
